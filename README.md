@@ -3,14 +3,14 @@ Inove Escuela de Código\
 info@inove.com.ar\
 Web: [Inove](http://inove.com.ar)
 
-# Introducción a Python Analytics! [Python]
+# Pandas! [Python]
 En este repositorio encontrarán los siguientes archivos:
 
 __Ejemplos que el profesor mostrará en clase__\
-proba_estadistica.ipynb
+ejemplos_clase
 
 __Instructivo de instalación de herramientas__\
-requerimientos.txt
+ejercicios_practica
 
 # Consultas
 alumnos@inove.com.ar
