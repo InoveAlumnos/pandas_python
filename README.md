@@ -7,9 +7,9 @@ Web: [Inove](http://inove.com.ar)
 En este repositorio encontrarán los siguientes archivos:
 
 __Ejemplos que el profesor mostrará en clase__\
-ejemplos_clase
+ejemplo_clase
 
-__Instructivo de instalación de herramientas__\
+__Ejercicios para que el alumno desarrolle lo visto en clase__\
 ejercicios_practica
 
 # Consultas
